@@ -1,1 +1,2 @@
 first week of learning javaScript with peers
+hello wassup
